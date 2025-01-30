@@ -1,9 +1,9 @@
 
- Hi there. Welcome to my Github profile. 👋
+ <h1>Hi there. Welcome to my Github profile. 👋</h1>
  
- My name is Rafael Amorim and my nickname is Rafaolam. 😃
+ <h2>My name is Rafael Amorim and my nickname is Rafaolam. 😃</h2>
 
- I,m lernaning 
+ <h2>I,m learning</h2> 
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
