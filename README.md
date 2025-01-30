@@ -1,16 +1,18 @@
-## Hi there. Welcome to my Github profile. 👋
-## My name is Rafael Amorim and my nickname is Rafaolam.
-<!--
+
+ Hi there. Welcome to my Github profile. 👋
+ My name is Rafael Amorim and my nickname is Rafaolam. 😃
+<--
 **Rafaolam/Rafaolam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img loading="lazy" src="href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/>
+
+
 
 - 🔭 I’m currently working on software analyst on @softcomtecnologia 
 - 🌱 I’m currently learning front-end development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on new projects to improve my knowledge.
+
+
+            <img loading="lazy" src="href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/>
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
