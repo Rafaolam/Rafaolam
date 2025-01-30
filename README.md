@@ -6,7 +6,7 @@
 
 <img loading="lazy" src="href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/>
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/>
 
 - 🔭 I’m currently working on software analyst on @softcomtecnologia 
 - 🌱 I’m currently learning front-end development
